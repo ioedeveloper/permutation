@@ -1,0 +1,28 @@
+{
+  "name": "permutation",
+  "version": "1.0.0",
+  "description": "An algorithm to find the number of possible arrangement of a range of values i.e (1 to nth term), in a set of k i.e (k number of values at a time). ",
+  "main": ".dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioedeveloper/permutation.git"
+  },
+  "keywords": [
+    "algorithm",
+    "permutation",
+    "quora",
+    "ioedeveloper",
+    "factorial",
+    "combination",
+    "typescript"
+  ],
+  "author": "@ioedeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioedeveloper/permutation/issues"
+  },
+  "homepage": "https://github.com/ioedeveloper/permutation#readme"
+}
